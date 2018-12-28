@@ -28,7 +28,7 @@ def send_message(message,robot_token):
 
 message = "各位注意~周五了！下下周三版本封需求了！"
 message2 = "各位注意~周三了！请提测下周版本的内容！"
-token01 = "8afe026f4cf367854da2f81959f8ad4dd55739ad5f01f9abf1355754a8d24ee1"
+token01 = "0b2dc73e93a82dac9445fb8861678612d40156de6a801690b4b0af0e6501a39e"
 
 while True :
     nowTime = time.localtime(time.time())
